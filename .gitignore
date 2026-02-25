@@ -1,5 +1,6 @@
-datasets/*
+datasets/
 !.gitignore
 !datasets/.gitkeep
-datasets_pkl/*
+datasets_pkl/
 !datasets_pkl/.gitkeep
+.venv/
